@@ -1,2 +1,2 @@
 # AnonyWiki
-- [https://anonywiki.xyz](Website URL)
+- [Website URL](https://anonywiki.xyz)
