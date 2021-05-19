@@ -1,0 +1,33 @@
+body
+{
+    background-image: url("images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1
+{
+    margin: 0;
+    padding: 0;
+    font-family: lora;
+    font-size: 3em;
+    color: rgb(150, 0, 0);
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    text-shadow: 2px 2px 2px rgb(39, 39, 39);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+div
+{
+    margin: 0;
+    padding: 0;
+    font-family: lora;
+    font-size: 1.5em;
+    color:white;
+    position: absolute;
+    top: 30%;
+    left: 1%;
+    text-align: left;
+}
+
