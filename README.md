@@ -1,2 +1,2 @@
 # AnonyWiki
-- Website: anonywiki.xyz
+- (https://anonywiki.xyz)[Website URL]
