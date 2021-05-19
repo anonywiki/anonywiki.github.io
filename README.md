@@ -1,1 +1,2 @@
-# anonywiki.github.io
+# AnonyWiki
+- Website: anonywiki.xyz
